@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "images": [
+    {
+      "url": "https://raw.githubusercontent.com/FC-DEV-2026/FC-DEV-2026.github.io/main/carousel/tile_cat.png",
+      "name": "tile_cat.png"
+    }
+  ]
+}
